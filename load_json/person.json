@@ -1,0 +1,68 @@
+[
+  {
+    "name" : "Raj Zadafiya",
+    "age" : "21",
+    "bdate" : "25/03/2002",
+    "height" : "172",
+    "gender" : "male",
+    "hair_color" : "Black"
+  },
+
+  {
+    "name" : "Ram Zadafiya",
+    "age" : "21",
+    "bdate" : "24/03/2002",
+    "height" : "175",
+    "gender" : "male",
+    "hair_color" : "Black"
+  },
+
+  {
+    "name" : "R Zadafiya",
+    "age" : "21",
+    "bdate" : "23/03/2002",
+    "height" : "171",
+    "gender" : "male",
+    "hair_color" : "Black"
+  },
+  {
+    "name" : "H Zadafiya",
+    "age" : "25",
+    "bdate" : "22/03/2002",
+    "height" : "177",
+    "gender" : "male",
+    "hair_color" : "Black"
+  },
+  {
+    "name" : "G Zadafiya",
+    "age" : "23",
+    "bdate" : "21/03/2002",
+    "height" : "179",
+    "gender" : "male",
+    "hair_color" : "Black"
+  },
+  {
+    "name" : "N Zadafiya",
+    "age" : "23",
+    "bdate" : "1/03/2002",
+    "height" : "179",
+    "gender" : "male",
+    "hair_color" : "Black"
+  },
+  {
+    "name" : "G Zadafiya",
+    "age" : "23",
+    "bdate" : "21/03/2002",
+    "height" : "179",
+    "gender" : "male",
+    "hair_color" : "Black"
+  },
+  {
+    "name" : "G Zadafiya",
+    "age" : "23",
+    "bdate" : "21/03/2002",
+    "height" : "179",
+    "gender" : "male",
+    "hair_color" : "Black"
+  }
+]
